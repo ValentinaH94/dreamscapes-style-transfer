@@ -63,6 +63,13 @@ L’ottimizzazione bilancia due componenti:
 L’output finale mantiene la struttura riconoscibile dell’immagine di contenuto, ma introduce una trasformazione cromatica e testurale che richiama una dimensione **surreale e onirica**.
 
 ---
+## 🖼️ Output finale
+
+Di seguito un esempio dell’immagine generata tramite Neural Style Transfer.
+Il risultato mantiene una struttura riconoscibile, ma introduce una
+trasformazione cromatica e testurale di tipo onirico.
+
+![Dreamscape finale](outputs/dreamscape_style_transfer_final.png)
 
 ## 🔮 Sviluppi futuri
 
