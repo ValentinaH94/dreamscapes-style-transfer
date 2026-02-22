@@ -69,7 +69,7 @@ Di seguito un esempio dell’immagine generata tramite Neural Style Transfer.
 Il risultato mantiene una struttura riconoscibile, ma introduce una
 trasformazione cromatica e testurale di tipo onirico.
 
-![Dreamscape finale](outputs/dreamscape_style_transfer_final.png)
+![Dreamscape finale](dreamscape_style_transfer_final.png)
 
 ## 🔮 Sviluppi futuri
 
