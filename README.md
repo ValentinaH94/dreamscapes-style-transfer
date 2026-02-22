@@ -71,11 +71,23 @@ trasformazione cromatica e testurale di tipo onirico.
 
 ![Dreamscape finale](dreamscape_style_transfer_final.png)
 
+
+## 📎 Fonti e crediti
+
+- **Immagine di contenuto**:  
+  Foto di Jeremy Bishop su Unsplash  
+  https://unsplash.com/
+
+- **Immagine di stile**:  
+  Immagine artistica da Wikimedia Commons  
+  https://commons.wikimedia.org/
+
+Le immagini sono state utilizzate esclusivamente a scopo educativo e sperimentale.
 ## 🔮 Sviluppi futuri
 
 - Confronto con modelli **text-to-image** (es. Stable Diffusion)
 - Esperimenti con diversi layer/pesi (morbido vs intenso)
-- Versione “serie” con più output e confronto sistematico
+  
 
 ---
 
